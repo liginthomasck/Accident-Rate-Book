@@ -1,0 +1,21 @@
+/kaggle/input/accident-rate-without-seatbelts/seatbelts.csv
+
+/opt/conda/lib/python3.7/site-packages/papermill/iorw.py:50: FutureWarning: pyarrow.HadoopFileSystem is deprecated as of 2.0.0, please use pyarrow.fs.HadoopFileSystem instead.
+
+  from pyarrow import HadoopFileSystem
+
+/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+
+  FutureWarning,
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+
+[NbConvertApp] Writing 2760 bytes to __notebook__.ipynb
+
+/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+
+  FutureWarning,
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+
+[NbConvertApp] Writing 274974 bytes to __results__.html
